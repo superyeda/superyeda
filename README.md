@@ -37,7 +37,7 @@
 </div>
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=superyeda&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=superyeda&theme=radical" align="center">
 <!-- 背景图 -->
 <br />
 <br />
