@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=superyeda&theme=radical">
 <!-- 背景图 -->
 <br />
 <br />
@@ -51,4 +53,3 @@
 - 👻 I love to share, and currently share technical articles
 - 📨 My email address is `im_dd@qq.com` Welcome to contact me 👏🏻 ~
 
-<img src="https://github-readme-stats.vercel.app/api?username=superyeda&theme=redical">
