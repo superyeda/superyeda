@@ -5,8 +5,8 @@
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
-
-
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=superyeda&theme=dark">
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
@@ -51,4 +51,4 @@
 - 👻 I love to share, and currently share technical articles
 - 📨 My email address is `im_dd@qq.com` Welcome to contact me 👏🏻 ~
 
-<img src="https://github-readme-stats.vercel.app/api?username=superyeda&dark">
+
