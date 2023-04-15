@@ -36,10 +36,12 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=superyeda&theme=radical" align="center">
 <!-- 背景图 -->
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=superyeda&theme=radical">
+<img align="right" alt="GIF" src="https://tenfei03.cfp.cn/creative/vcg/nowater800/new/VCG41N1405663706.jpg?x-oss-process=image/format,webp" width="400"/>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
@@ -50,4 +52,3 @@
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles
 - 📨 My email address is `im_dd@qq.com` Welcome to contact me 👏🏻 ~
-
