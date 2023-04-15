@@ -41,7 +41,7 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="https://tenfei03.cfp.cn/creative/vcg/nowater800/new/VCG41N1405663706.jpg?x-oss-process=image/format,webp" width="400"/>
+<img align="right" alt="GIF" src="https://tenfei03.cfp.cn/creative/vcg/nowater800/new/VCG41N1405663706.jpg?x-oss-process=image/format,webp" width="300"/>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
