@@ -47,8 +47,6 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently studying on [CCSU]([https://dxy.com/](http://www.ccsu.edu.cn/))~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles
-- 📨 My email address is `im_dd@qq.com` Welcome to contact me 👏🏻 ~
